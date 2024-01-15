@@ -1,0 +1,19 @@
+#container{
+     margin-left: 3%; 
+}
+ .gallery-img{
+  margin-right: 4%;
+  margin-bottom: 2%;
+  width: 345px;
+  height: 180px;
+}
+p{
+    color: grey;
+    font-family: 'Trebuchet MS';
+}
+h1{
+    color: skyblue;
+}
+body{
+    background-color: whitesmoke;
+}
